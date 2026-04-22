@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 class AssignmentList extends StatelessWidget {
-  // ✅ Shared list (now accessible from other files)
+
   static List<String> assignments = [
     "Math Assignment",
     "Computer Science Project",
